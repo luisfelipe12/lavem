@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+#logo{
+	width: 100%;
+	background-color: white;
+}
+
+.menu a:hover{
+	color:#1E90FF;
+}
+
+.menu a{
+	color: white;
+}
+
+.sobre{
+	color:white;
+}
+
+.zoom{
+	transition: all .3s cubic-bezier(1,1,1,1);
+}
+
+.zoom:hover{
+	transform: scale(1.1);
+	filter: none;
+	z-index: 1;
+}
+
+
+#titulo{
+	color:#000080;
+	font-size: 80%;
+	font-family: 'Open Sans', sans-serif;
+}
+#lavemLogo{
+	width: 65px; 
+	height: 75px;
+}
+#logoIF{
+	width: 65px; 
+	height: 65px; 
+}
+@media (min-width: 992px) {
+	#titulo{
+		text-align:center;
+		width: 800px;
+		color:#000080;
+		font-size:20px;
+		font-family: 'Open Sans', sans-serif;
+		margin: 0 auto;
+	}	
+	#lavemLogo{
+		width: 140px; 
+		height: 120px; 
+		margin-left: 200px;
+	}
+	#logoIF{
+		width: 120px; 
+		height: 120px; 
+		right: 0;
+		margin-right: 200px;
+	}
+}
+.rodape{
+	background-color: #000080;
+}
+
+#imgMenu{
+	width:30px;
+	height:30px;
+}

@@ -1,0 +1,161 @@
+
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+       <a href="<?=base_url()?>Geral/cinemat1"><img class="card-img-top"  src="<?=base_url()?>assets/imagens/historia_mat/cinemat1.jpg" alt=""></a>
+       <div class="card-body">
+         <a href="<?=base_url()?>Geral/cinemat1">CINEMAT 1: Donald no País da Matemágica</a>
+       </div>
+     </div>
+   </div>
+   <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="<?=base_url()?>Geral/cinemat2"><img class="card-img-top" src="<?=base_url()?>assets/imagens/historia_mat/cinemat2.jpg" alt=""></a>
+      <div class="card-body">
+        <a href="<?=base_url()?>Geral/cinemat2">CINEMAT 2:  O Legado de Pitágoras - Os Triângulos de Samos</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="<?=base_url()?>Geral/cinemat3"><img class="card-img-top "  src="<?=base_url()?>assets/imagens/historia_mat/cinemat3.jpg" alt=""></a>
+      <div class="card-body">
+        <a href="<?=base_url()?>Geral/cinemat3">CINEMAT 3:  O Legado de Pitágoras - Pitágoras e outros</a>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+       <a href="<?=base_url()?>Geral/cinemat4"><img class="card-img-top"  src="<?=base_url()?>assets/imagens/historia_mat/cinemat4.jpg" alt=""></a>
+       <div class="card-body">
+         <a href="<?=base_url()?>Geral/cinemat4">CINEMAT 4:  O Legado de Pitágoras – Desafiando Pitágoras</a>
+       </div>
+     </div>
+   </div>
+   <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="<?=base_url()?>Geral/cinemat5"><img class="card-img-top"  src="<?=base_url()?>assets/imagens/historia_mat/cinemat5.jpg" alt=""></a>
+      <div class="card-body">
+        <a href="<?=base_url()?>Geral/cinemat5">CINEMAT 5:   Vida Matemática: Egito, o Berço dos Números</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="<?=base_url()?>Geral/cinemat6"><img class="card-img-top "  src="<?=base_url()?>assets/imagens/historia_mat/cinemat3.jpg" alt=""></a>
+      <div class="card-body">
+        <a href="<?=base_url()?>Geral/cinemat6">CINEMAT 6:   Vida Matemática: Grécia, a Origem dos Elementos</a>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+       <a href="<?=base_url()?>Geral/cinemat7"><img class="card-img-top"  src="<?=base_url()?>assets/imagens/historia_mat/cinemat7.jpg"alt=""></a>
+       <div class="card-body">
+         <a href="<?=base_url()?>Geral/cinemat7">CINEMAT 7:   Vida Matemática: Índia, a Divindade dos Números</a>
+       </div>
+     </div>
+   </div>
+   <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="<?=base_url()?>Geral/cinemat8"><img class="card-img-top"  src="<?=base_url()?>assets/imagens/historia_mat/cinemat8.jpg" alt=""></a>
+      <div class="card-body">
+        <a href="<?=base_url()?>Geral/cinemat8">CINEMAT 8:  A História do Número 1</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="<?=base_url()?>Geral/cinemat9"><img class="card-img-top "  src="<?=base_url()?>assets/imagens/historia_mat/cinemat9.jpg" alt=""></a>
+      <div class="card-body">
+        <a href="<?=base_url()?>Geral/cinemat9">CINEMAT 9:  A História dos Números Primos</a>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+       <a href="<?=base_url()?>Geral/cinemat10"><img class="card-img-top"  src="<?=base_url()?>assets/imagens/historia_mat/cinemat10.jpg"alt=""></a>
+       <div class="card-body">
+         <a href="<?=base_url()?>Geral/cinemat10">CINEMAT 10:  Os Gênios do Oriente</a>
+       </div>
+     </div>
+   </div>
+   <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="<?=base_url()?>Geral/cinemat11"><img class="card-img-top"  src="<?=base_url()?>assets/imagens/historia_mat/cinemat11.jpg" alt=""></a>
+      <div class="card-body">
+        <a href="<?=base_url()?>Geral/cinemat11">CINEMAT 11: Vida Matemática: O Mundo em Movimento, Cálculo Diferencial e integral</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="<?=base_url()?>Geral/cinemat12"><img class="card-img-top "  src="<?=base_url()?>assets/imagens/historia_mat/cinemat12.jpg" alt=""></a>
+      <div class="card-body">
+        <a href="<?=base_url()?>Geral/cinemat12">CINEMAT 12: Alta Ansiedade: A Matemática do Caos</a>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+       <a href="<?=base_url()?>Geral/cinemat13"><img class="card-img-top"  src="<?=base_url()?>assets/imagens/historia_mat/cinemat13.jpg"alt=""></a>
+       <div class="card-body">
+         <a href="<?=base_url()?>Geral/cinemat13">CINEMAT 13: Escher – Metamorfose</a>
+       </div>
+     </div>
+   </div>
+   <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="<?=base_url()?>Geral/cinemat14"><img class="card-img-top"  src="<?=base_url()?>assets/imagens/historia_mat/cinemat14.jpg" alt=""></a>
+      <div class="card-body">
+        <a href="<?=base_url()?>Geral/cinemat14">CINEMAT 14: A Beleza dos Diagramas</a>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+
